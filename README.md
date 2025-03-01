@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=kubhargavi&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=kubhargavi&color=lavander)
 
 <!--
 **kubhargavi/kubhargavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
